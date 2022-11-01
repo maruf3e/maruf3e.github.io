@@ -1506,11 +1506,11 @@ ul.text-class {
 		background-image: linear-gradient(top, #008dad, #007b9d);
 		display: inline-block;
 		padding: 15px 25px 15px 25px;
-		background-color: #007b9d;
+		background-color: #b7be;
 		border-radius: 10px;
 		text-transform: none;
 		text-decoration: none;
-		color: #fff;
+		color: #cada72;
 		font-size: 1.2em;
 		letter-spacing: -1px;
 		border: solid 1px #006e8b;
@@ -1551,7 +1551,7 @@ ul.text-class {
 		border-radius: 10px;
 		border: solid 1px #006e8b;
 		box-shadow: inset 0px 0px 0px 1px #12a0bf, 0px 1px 4px 0px rgba(0, 0, 0, 0.1);
-		background-color: #007b9d;
+		background-color: #cdd9c8;
 		height: 86px;
 	}
 
@@ -1812,7 +1812,7 @@ ul.text-class {
 				width: 100%;
 				z-index: 10001;
 				text-align: center;
-				color: #fff;
+				color: #cada72;
 				font-size: 1.25em;
 				background-color: #007294;
 			}
@@ -1834,7 +1834,7 @@ ul.text-class {
 						position: absolute;
 						left: 4px;
 						top: 4px;
-						color: #fff;
+						color: #cada72;
 						text-align: center;
 						line-height: 31px;
 						font-size: 0.8em;
