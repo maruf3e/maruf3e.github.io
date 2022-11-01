@@ -1559,14 +1559,14 @@ ul.text-class {
 			position: absolute;
 			left: 40px;
 			top: 0;
-			color: #fff;
+			color: #cada72;
 			font-size: 2.4em;
 			letter-spacing: -2px;
 			line-height: 86px;
 		}
 
 			#header h1 a {
-				color: #fff;
+				color: #cada72;
 				text-decoration: none;
 			}
 
@@ -1583,7 +1583,7 @@ ul.text-class {
 			#header nav a {
 				display: inline-block;
 				text-decoration: none;
-				color: #fff;
+				color: #cada72;
 				padding: 0 25px 0 25px;
 				outline: 0;
 			}
@@ -1626,7 +1626,7 @@ ul.text-class {
 
 		#banner h2 {
 			font-size: 3.3em;
-			color: #fff;
+			color: #cada72;
 			text-align: center;
 			letter-spacing: -2px;
 			margin: 0;
@@ -1637,7 +1637,7 @@ ul.text-class {
 			left: 0;
 			margin: 0.5em 0 0 0;
 			font-size: 1.6em;
-			color: #fff;
+			color: #cada72;
 			letter-spacing: -1px;
 			text-transform: none;
 			opacity: 0.8;
@@ -1880,13 +1880,13 @@ ul.text-class {
 				width: 275px;
 				z-index: 10002;
 				background: #00536F;
-				color: #fff;
+				color: #cada72;
 				box-shadow: inset -10px 0px 40px 0px rgba(0, 0, 0, 0.5);
 			}
 
 				#navPanel .link {
 					display: block;
-					color: #fff;
+					color: #cada72;
 					border-top: solid 1px rgba(255, 255, 255, 0.1);
 					border-bottom: solid 1px rgba(0, 0, 0, 0.2);
 					height: 55px;
