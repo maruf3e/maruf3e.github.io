@@ -22,7 +22,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: open sans;
+	font: inherit;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -101,9 +101,9 @@ ul.text-class {
 
 	body {
 		font-size: 13.5pt;
-		font-family: open sans;
+		font-family: inherit;
 		background-color: #e3e9dc;
-		font-family: 'Source Sans Pro', serif;
+		font-family: 'Source Sans Pro', open sans;
 		color: #878e83;
 		letter-spacing: -1px;
 	}
