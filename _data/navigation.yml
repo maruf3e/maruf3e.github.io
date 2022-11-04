@@ -1,0 +1,23 @@
+# main links links
+main:
+  - title: "Professional Experience"
+    url: /experience/
+    
+  - title: "Education"
+    url: /education/    
+    
+  - title: "Research Publications"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Academic"
+    url: /academic/
+  
+  - title: "Awards"
+    url: /awards/
+    
+  - title: "Miscellaneous"
+    url: /miscellaneous/
+    
