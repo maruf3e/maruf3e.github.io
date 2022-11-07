@@ -109,7 +109,7 @@ ul.text-class {
 	}
 
 	h1, h2, h3, h4 {
-		color: #007897;
+		color: #33FFBE;
 		font-weight: normal;
 	}
 
@@ -125,7 +125,7 @@ ul.text-class {
 	}
 
 	h3, h4 {
-		color: #283121;
+		color: #33FFBE;
 		margin-bottom: 0.5em;
 	}
 
@@ -147,7 +147,7 @@ ul.text-class {
 	}
 
 	strong {
-		color: #474e43;
+		color: #33FFBE;
 	}
 
 	img.left {
@@ -164,7 +164,7 @@ ul.text-class {
 	}
 
 	a {
-		color: #5d93a2;
+		color: #33FFBE;
 		text-decoration: underline;
 	}
 
@@ -1593,7 +1593,7 @@ ul.text-class {
 					background-image: -webkit-linear-gradient(top, #007b99, #007897);
 					background-image: -ms-linear-gradient(top, #007b99, #007897);
 					background-image: linear-gradient(top, #007b99, #007897);
-					background-color: #007897;
+					background-color: #33FFBE;
 					box-shadow: inset 0px 1px 5px 1px rgba(0, 0, 0, 0.1), 0px 0px 5px 1px rgba(255, 255, 255, 0.1);
 				}
 
@@ -1602,7 +1602,7 @@ ul.text-class {
 					background-image: -webkit-linear-gradient(top, #0782a0, #077d9b);
 					background-image: -ms-linear-gradient(top, #0782a0, #077d9b);
 					background-image: linear-gradient(top, #0782a0, #077d9b);
-					background-color: #0882a1;
+					background-color: #33FFBE;
 					box-shadow: inset 0px 1px 5px 1px rgba(0, 0, 0, 0.05), 0px 0px 5px 1px rgba(255, 255, 255, 0.05);
 				}
 
@@ -1762,7 +1762,7 @@ ul.text-class {
 				background-image: -webkit-linear-gradient(top, #008dab, #007294);
 				background-image: -ms-linear-gradient(top, #008dab, #007294);
 				background-image: linear-gradient(top, #008dab, #007294);
-				background-color: #007294;
+				background-color: #33FFBE;
 			}
 
 			#header {
@@ -1814,7 +1814,7 @@ ul.text-class {
 				text-align: center;
 				color: #cada72;
 				font-size: 1.25em;
-				background-color: #007294;
+				background-color: #33FFBE;
 			}
 
 				#titleBar .title {
