@@ -1529,11 +1529,11 @@ ul.text-class {
 /* Header */
 
 	#header-wrapper {
-		background-image: -moz-linear-gradient(top, #008dab, #007294);
-		background-image: -webkit-linear-gradient(top, #008dab, #007294);
-		background-image: -ms-linear-gradient(top, #008dab, #007294);
-		background-image: linear-gradient(top, #008dab, #007294);
-		background-color: #007294;
+		background-image: -moz-linear-gradient(top, #33FFA5 , #33FFF0);
+		background-image: -webkit-linear-gradient(top, #33FFA5 , #33FFF0);
+		background-image: -ms-linear-gradient(top, #33FFA5 , #33FFF0);
+		background-image: linear-gradient(top, #33FFA5 , #33FFF0);
+		background-color: #33FFF0;
 	}
 
 	#header {
